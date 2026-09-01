@@ -1,0 +1,13 @@
+tree
+.
+├── README.md
+├── advanced-log.txt
+├── command-line
+│   ├── easy-log.txt
+│   ├── intermediate-log.txt
+│   └── test.txt
+├── directory-list.sh
+├── files.txt
+└── secret.txt
+
+2 directories, 8 files
