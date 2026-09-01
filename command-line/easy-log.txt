@@ -1,0 +1,24 @@
+pwd
+/home/codespace/command-line-easy
+
+ls
+hello.txt
+
+cat hello.txt
+Hello, Linux!
+
+cp hello.txt hello-copy.txt
+
+mv hello-copy.txt ../
+
+cat ../hello-copy.txt
+Hello, Linux!
+
+rm hello.txt
+
+man ls
+
+echo "Test" > test.txt
+
+cat test.txt
+Test
